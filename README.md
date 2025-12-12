@@ -74,6 +74,11 @@ achievements: 33k+ PyPI downloads on Disnake Together
 
 ---
 
+## ⏲️ Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 🎮 Extras
 
 <div align="center">
