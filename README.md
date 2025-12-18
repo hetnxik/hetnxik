@@ -79,11 +79,11 @@ achievements: 33k+ PyPI downloads on Disnake Together
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 December 2025 - To: 16 December 2025
+From: 11 December 2025 - To: 17 December 2025
 
-Total Time: 5 hrs 27 mins
+Total Time: 7 hrs 23 mins
 
-Other      3 hrs 7 mins    >>>>>>>>>----------------   36.34 %
+Other      7 hrs 18 mins   >>>>>>>>>>>>-------------   49.72 %
 ```
 
 <!--END_SECTION:waka-->
