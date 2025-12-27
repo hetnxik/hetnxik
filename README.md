@@ -76,6 +76,8 @@ achievements: 33k+ PyPI downloads on Disnake Together
 
 ## 🎮 Extras
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=awesomehet&cover_image=true&theme=compact&show_offline=true&background_color=121212&interchange=true&profanity=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=awesomehet&redirect=true)
+
 <div align="center">
 
 | 🎯 Gaming | ​￼​ F1 Racing | 🎵 Music |
