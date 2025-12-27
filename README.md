@@ -82,7 +82,7 @@ achievements: 33k+ PyPI downloads on Disnake Together
 |:---------:|:------------:|:--------:|
 | **Valorant**: Top 4% | **Team**: Red Bull Racing | **Vibe**: Travis Scott |
 | **Clash Royale**: Top 6% | **Driver**: Max Verstappen | **Genre**: Hip-Hop/Rap |
-| Strategy & Competitive Gaming | 4x World Champion 🏆 | Coding Soundtrack 🎧 |
+| Strategy & Competitive Gaming | 400hrs on F1 EA | Till Further Notice |
 
 </div>
 
