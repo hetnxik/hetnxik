@@ -74,20 +74,6 @@ achievements: 33k+ PyPI downloads on Disnake Together
 
 ---
 
-## ⏲️ Stats
-
-<!--START_SECTION:waka-->
-
-```rust
-From: 11 December 2025 - To: 26 December 2025
-
-Total Time: 18 hrs 32 mins
-
-Other      26 hrs 18 mins  >>>>>>>>>>>>>>>----------   58.65 %
-```
-
-<!--END_SECTION:waka-->
-
 ## 🎮 Extras
 
 <div align="center">
